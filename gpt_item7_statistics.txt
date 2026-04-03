@@ -1,0 +1,200 @@
+Question: When was the restructuring plan announced
+  Count: 38
+  Mean: 1.74
+  Median: 1.00
+  Standard Deviation: 0.89
+  Q1 (25th percentile): 1.0
+  Q3 (75th percentile): 3.0
+
+Question: What are the management stated reasons (purpose) of restructuring
+  Count: 35
+  Mean: 1.69
+  Median: 2.00
+  Standard Deviation: 0.63
+  Q1 (25th percentile): 1.0
+  Q3 (75th percentile): 2.0
+
+Question: What savings does the company anticipate
+  Count: 36
+  Mean: 2.58
+  Median: 3.00
+  Standard Deviation: 0.81
+  Q1 (25th percentile): 3.0
+  Q3 (75th percentile): 3.0
+
+Question: What savings did the company accomplish in relation to restructuring performed in prior years
+  Count: 36
+  Mean: 2.33
+  Median: 3.00
+  Standard Deviation: 0.96
+  Q1 (25th percentile): 1.0
+  Q3 (75th percentile): 3.0
+
+Question: How much total restructuring charges were recorded for the most recent year
+  Count: 36
+  Mean: 1.89
+  Median: 2.00
+  Standard Deviation: 0.92
+  Q1 (25th percentile): 1.0
+  Q3 (75th percentile): 3.0
+
+Question: What is the break-down (components) of the charges for the most recent year?
+  Count: 22
+  Mean: 1.59
+  Median: 1.00
+  Standard Deviation: 0.91
+  Q1 (25th percentile): 1.0
+  Q3 (75th percentile): 2.75
+
+Question: How much reduction in employees for the most recent year
+  Count: 36
+  Mean: 2.50
+  Median: 3.00
+  Standard Deviation: 0.88
+  Q1 (25th percentile): 2.5
+  Q3 (75th percentile): 3.0
+
+Question: Did a company report a closure of any facilities/line of business
+  Count: 36
+  Mean: 2.00
+  Median: 2.00
+  Standard Deviation: 1.01
+  Q1 (25th percentile): 1.0
+  Q3 (75th percentile): 3.0
+
+Question: Which specified facilities or lines of business were closed
+  Count: 36
+  Mean: 2.14
+  Median: 3.00
+  Standard Deviation: 0.99
+  Q1 (25th percentile): 1.0
+  Q3 (75th percentile): 3.0
+
+Question: Did the company mention cost reduction
+  Count: 36
+  Mean: 2.61
+  Median: 3.00
+  Standard Deviation: 0.80
+  Q1 (25th percentile): 3.0
+  Q3 (75th percentile): 3.0
+
+Question: Did the company report when it wants to complete restructuring?
+  Count: 22
+  Mean: 2.64
+  Median: 3.00
+  Standard Deviation: 0.79
+  Q1 (25th percentile): 3.0
+  Q3 (75th percentile): 3.0
+
+Question: If yes, when do they plan to complete it
+  Count: 36
+  Mean: 2.56
+  Median: 3.00
+  Standard Deviation: 0.84
+  Q1 (25th percentile): 3.0
+  Q3 (75th percentile): 3.0
+
+Question: What is the break-down (components) of the charges for the most recent year
+  Count: 14
+  Mean: 1.71
+  Median: 1.00
+  Standard Deviation: 0.91
+  Q1 (25th percentile): 1.0
+  Q3 (75th percentile): 2.75
+
+Question: Did the company report when it wants to complete restructuring
+  Count: 14
+  Mean: 2.43
+  Median: 3.00
+  Standard Deviation: 0.94
+  Q1 (25th percentile): 1.5
+  Q3 (75th percentile): 3.0
+
+Question: Management stated reasons (purpose) of restructuring
+  Count: 3
+  Mean: 1.67
+  Median: 2.00
+  Standard Deviation: 0.58
+  Q1 (25th percentile): 1.5
+  Q3 (75th percentile): 2.0
+
+Question: Anticipated savings
+  Count: 3
+  Mean: 2.33
+  Median: 3.00
+  Standard Deviation: 1.15
+  Q1 (25th percentile): 2.0
+  Q3 (75th percentile): 3.0
+
+Question: Savings accomplished in relation to restructuring performed in prior years
+  Count: 3
+  Mean: 3.00
+  Median: 3.00
+  Standard Deviation: 0.00
+  Q1 (25th percentile): 3.0
+  Q3 (75th percentile): 3.0
+
+Question: Total restructuring charges recorded for the most recent year
+  Count: 3
+  Mean: 1.67
+  Median: 2.00
+  Standard Deviation: 0.58
+  Q1 (25th percentile): 1.5
+  Q3 (75th percentile): 2.0
+
+Question: Break-down (components) of the charges for the most recent year
+  Count: 3
+  Mean: 1.67
+  Median: 2.00
+  Standard Deviation: 0.58
+  Q1 (25th percentile): 1.5
+  Q3 (75th percentile): 2.0
+
+Question: Reduction in employees for the most recent year
+  Count: 3
+  Mean: 1.67
+  Median: 1.00
+  Standard Deviation: 1.15
+  Q1 (25th percentile): 1.0
+  Q3 (75th percentile): 2.0
+
+Question: Closure of any facilities/line of business
+  Count: 3
+  Mean: 1.67
+  Median: 1.00
+  Standard Deviation: 1.15
+  Q1 (25th percentile): 1.0
+  Q3 (75th percentile): 2.0
+
+Question: Specified facilities or lines of business closed
+  Count: 3
+  Mean: 1.67
+  Median: 1.00
+  Standard Deviation: 1.15
+  Q1 (25th percentile): 1.0
+  Q3 (75th percentile): 2.0
+
+Question: Mention of cost reduction
+  Count: 3
+  Mean: 3.00
+  Median: 3.00
+  Standard Deviation: 0.00
+  Q1 (25th percentile): 3.0
+  Q3 (75th percentile): 3.0
+
+Question: Report of when it wants to complete restructuring
+  Count: 3
+  Mean: 3.00
+  Median: 3.00
+  Standard Deviation: 0.00
+  Q1 (25th percentile): 3.0
+  Q3 (75th percentile): 3.0
+
+Question: Planned completion date
+  Count: 3
+  Mean: 3.00
+  Median: 3.00
+  Standard Deviation: 0.00
+  Q1 (25th percentile): 3.0
+  Q3 (75th percentile): 3.0
+

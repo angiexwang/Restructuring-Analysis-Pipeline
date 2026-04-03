@@ -1,0 +1,56 @@
+Question: How much total restructuring charges were recorded? Note:
+  Count: 37
+  Mean: 1.92
+  Median: 2.00
+  Standard Deviation: 0.83
+  Q1 (25th percentile): 1.0
+  Q3 (75th percentile): 3.0
+
+Question: What is the break-down (components) of the charges? (Note: record each reported component in $mil in a separate column. Example: Severance: 10, lease termination: 20
+  Count: 37
+  Mean: 1.92
+  Median: 2.00
+  Standard Deviation: 0.83
+  Q1 (25th percentile): 1.0
+  Q3 (75th percentile): 3.0
+
+Question: Did a company report a closure of any facilities/line of business? (Yes, or No)
+  Count: 5
+  Mean: 2.20
+  Median: 3.00
+  Standard Deviation: 1.10
+  Q1 (25th percentile): 1.0
+  Q3 (75th percentile): 3.0
+
+Question: If a company reported closing of facilities/line of business, what facility did they close (state every facility, or line of business they closed). List countries (if listed), states (if listed), or any other locations. Note, list specifics in a separate column.
+  Count: 6
+  Mean: 2.67
+  Median: 3.00
+  Standard Deviation: 0.82
+  Q1 (25th percentile): 3.0
+  Q3 (75th percentile): 3.0
+
+Question: When was the restructuring plan announced?
+  Count: 6
+  Mean: 1.83
+  Median: 1.50
+  Standard Deviation: 0.98
+  Q1 (25th percentile): 1.0
+  Q3 (75th percentile): 2.75
+
+Question: What are the management stated reasons (purpose) of restructuring? Note, list each stated reason in a separate column.
+  Count: 5
+  Mean: 2.00
+  Median: 2.00
+  Standard Deviation: 0.00
+  Q1 (25th percentile): 2.0
+  Q3 (75th percentile): 2.0
+
+Question: How much reduction in employees? # of employees reduced (1 column)  or % of workforce (second column)
+  Count: 7
+  Mean: 2.14
+  Median: 3.00
+  Standard Deviation: 1.07
+  Q1 (25th percentile): 1.0
+  Q3 (75th percentile): 3.0
+
